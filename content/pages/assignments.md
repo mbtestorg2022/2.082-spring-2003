@@ -68,9 +68,9 @@ Problem Set 5: Maestro Tutorial and Building Model (Preliminary) ([PDF]({{< base
 {{< tdopen >}}
 Instructions ([PDF]({{< baseurl >}}/resources/ps5instructions))  
 [PS2\_soln\_maestro\_3\_mod.xls]({{< baseurl >}}/resources/ps2_soln_maestro_3_mod)  
-[ps\_5\_2\_full\_2.mdl](/courses/mechanical-engineering/2-082-ship-structural-analysis-design-13-122-spring-2003/assignments/ps_5_2_full_2.mdl)  
-[ps\_5\_2\_mod.mdl](/courses/mechanical-engineering/2-082-ship-structural-analysis-design-13-122-spring-2003/assignments/ps_5_2_mod.mdl)  
-[ps\_5\_4\_mod.mdl](/courses/mechanical-engineering/2-082-ship-structural-analysis-design-13-122-spring-2003/assignments/ps_5_4_mod.mdl)
+{{% resource_link "bcb7b140-bd5c-c4ec-60b0-23186acff0d6" "ps\_5\_2\_full\_2.mdl" %}}  
+{{% resource_link "1a3af17d-2bec-fc84-68d7-9d34304387c6" "ps\_5\_2\_mod.mdl" %}}  
+{{% resource_link "d8302059-9050-b66a-ee9a-a4f3f311eaec" "ps\_5\_4\_mod.mdl" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
